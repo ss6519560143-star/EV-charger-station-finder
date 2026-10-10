@@ -1,0 +1,24 @@
+{
+  "name": "ev-charging-station-finder",
+  "version": "1.0.0",
+  "description": "EV Charging Station Finder - Full Stack MERN Web Application",
+  "scripts": {
+    "server": "npm run dev --prefix server",
+    "client": "npm run dev --prefix client",
+    "seed": "npm run seed --prefix server",
+    "create-admin": "npm run create-admin --prefix server",
+    "test": "npm run test --prefix server"
+  },
+  "keywords": [
+    "ev",
+    "electric-vehicle",
+    "charging-stations",
+    "mern",
+    "mongodb",
+    "react",
+    "leaflet",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC"
+}
